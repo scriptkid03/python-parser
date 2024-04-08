@@ -1,0 +1,13 @@
+e a
+i a
+i b
+q c
+f x
+w y
+a = 5
+b = 7
+c = a + b
+x = 7.5
+y = x + 2.5 + 12.25
+p c
+p z
